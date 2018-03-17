@@ -7,6 +7,10 @@ http://apibaker.com/#/{{gitUser}}/{{repoName}}
 ### [Deploy to Azure](https://azuredeploy.net/)
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
+### [Deploy to AWS](https://azuredeploy.net/)
+[![Deploy to AWS](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://aws.amazon.com/)
+
+
 ### [Deploy to Heroku](https://heroku.com/deploy)
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 

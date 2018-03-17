@@ -53,4 +53,8 @@ npm run setup
 npm run start
 ```
 
+### Run test
+```shell
+npm run test
+```
 

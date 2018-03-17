@@ -10,6 +10,12 @@ http://apibaker.com/#/{{gitUser}}/{{repoName}}
 ### [Deploy to Heroku](https://heroku.com/deploy)
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+### [Deploy to Bluemix](https://bluemix.net/deploy?repository=YOUR_GIT_URL_HERE)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=YOUR_GIT_URL_HERE)
+
+### [Deploy to Docker](https://cloud.docker.com/stack/deploy/)
+[![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
+
 ### Deploy Manually
 
 ##### 1. Clone the repository

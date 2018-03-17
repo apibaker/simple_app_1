@@ -8,22 +8,22 @@ http://apibaker.com/#/{{gitUser}}/{{repoName}}
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ### how to run manually
 1. Clone the repository
-```
+```shell
 git clone git@github.com:apibaker/simple_app_1.git
 ```
 
 2. npm install
-```
+```shell
 cd simple_app_1
 npm install
 ```
 
 3. edit database.js
-```
+```javascript
 module.exports = 
 {
     connectionString : process.env.DBURI || '<INPUT DATABASE URL HERE>'
@@ -33,12 +33,12 @@ The database URL may look like as: 'postgresql://postgres:@localhost/{{appName}}
 Or the database URL can be specified in envrionment configuartion file.
 
 4. setup database schema
-```
+```shell
 npm run setup
 ```
 
 5. start web server
-```
+```shell
 npm run start
 ```
 

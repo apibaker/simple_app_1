@@ -25,7 +25,7 @@ http://apibaker.com/#/undefined/simple_app_1
 
 ##### 1. Clone the repository
 ```shell
-git clone https://github.com/[object Object]/simple_app_1.git
+git clone https://github.com/apibaker/simple_app_1.git
 ```
 
 ##### 2. npm install

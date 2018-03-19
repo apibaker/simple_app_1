@@ -6,6 +6,7 @@
         "main": "server.js",
         "scripts": {
             "start": "node server.js",
+            "stop": "node setup.js",
             "test": "mocha"
         },
         "keywords": [
